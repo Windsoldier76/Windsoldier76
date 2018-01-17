@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+## This is my first blog page
+## It's just a test
 
 You can use the [editor on GitHub](https://github.com/Windsoldier76/Windsoldier76/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
